@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My firstapp</string>
+    <string name="hell_text">0</string>
+    <string name="random">random</string>
+    <string name="count">count</string>
+    <string name="toast">Toast</string>
+</resources>
